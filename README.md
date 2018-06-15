@@ -13,3 +13,8 @@ Installing setuptools, pip............done.
 $ . env/bin/activate # deactivate for leave the virtual environment
 $ pip install Flask
 ```
+
+# Run
+Once the server starts the application it's available at the following address:
+
+http://127.0.0.1:5000/
